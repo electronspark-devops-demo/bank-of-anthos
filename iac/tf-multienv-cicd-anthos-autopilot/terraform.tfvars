@@ -12,7 +12,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-project_id = "bank-of-anthos-ci"
+project_id = "atlantean-wares-426921-j3"
 region     = "us-central1"
 zone       = "us-central1-b"
 

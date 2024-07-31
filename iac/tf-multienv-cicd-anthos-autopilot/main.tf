@@ -14,7 +14,7 @@
 
 terraform {
   backend "gcs" {
-    bucket = "bank-of-anthos-tf-state"
+    bucket = "atlantean-wares-426921-j3-boa-tf-state"
     prefix = "bank-of-anthos"
   }
   required_providers {
